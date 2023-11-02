@@ -24,6 +24,7 @@ a {
   color: white;
   padding: 4px 8px;
 }
+
 #root {
   display: flex;
   flex-direction: column;
