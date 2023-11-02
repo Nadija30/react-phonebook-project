@@ -11,6 +11,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import { avatarStyle, boxFormStyle } from '../../pages/StylePages';
 import { toast } from 'react-toastify';
 import { logIn } from 'redux/auth/authThunk';
+
 const { useState } = require('react');
 const { useDispatch } = require('react-redux');
 const LoginForm = () => {
