@@ -7,7 +7,7 @@ export const paperMainStyle = photo => ({
   backgroundRepeat: 'no-repeat',
   backgroundPosition: 'top',
   backgroundImage: `url(${photo})`,
-  minHeight: 520,
+  minHeight: 510,
 });
 
 export const boxMainStyle = {
