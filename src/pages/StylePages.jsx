@@ -6,7 +6,7 @@ export const paperMainStyle = photo => ({
   mt: 10,
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
-  backgroundPosition: 'center-botoom',
+  backgroundPosition: 'top',
   backgroundImage: `url(${photo})`,
   minHeight: 400,
 });
